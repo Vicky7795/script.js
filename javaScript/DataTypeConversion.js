@@ -25,8 +25,34 @@
 
 
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = ('somenumber')
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let stringNumber = ('somenumber')
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+
+
+// converting number to string
+
+// let a = 123;
+// console.log(a);
+// console.log(typeof a);
+// let b = String(a);
+// console.log(b);
+// console.log(typeof b);
+
+
+// converting boolean to number
+
+let a = false ;
+console.log(a);
+console.log(typeof a);
+
+let b = Number(a);
+console.log(b);
+console.log(typeof b);
+
+
+
+
